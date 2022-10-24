@@ -1,0 +1,15 @@
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\bin\Debug\net6.0\Alura_DesignPatterns.NET.exe
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\bin\Debug\net6.0\Alura_DesignPatterns.NET.deps.json
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\bin\Debug\net6.0\Alura_DesignPatterns.NET.runtimeconfig.json
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\bin\Debug\net6.0\Alura_DesignPatterns.NET.dll
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\bin\Debug\net6.0\Alura_DesignPatterns.NET.pdb
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.csproj.AssemblyReference.cache
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.AssemblyInfoInputs.cache
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.AssemblyInfo.cs
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.csproj.CoreCompileInputs.cache
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.dll
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\refint\Alura_DesignPatterns.NET.dll
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.pdb
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\Alura_DesignPatterns.NET.genruntimeconfig.cache
+C:\Users\glmla\Downloads\CURSOS\Alura_DesignPatterns.NET\obj\Debug\net6.0\ref\Alura_DesignPatterns.NET.dll
